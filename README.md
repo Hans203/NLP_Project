@@ -17,6 +17,19 @@ summarize the most common **problems customers face**.
 
 ---
 
+## 🖼️ Example Output Screenshots  
+
+Here are some example outputs from the app:  
+
+- **Sentiment Summary Table**  
+  ![Sentiment Summary](images/sentiment_summary.png)  
+
+- **Aspect-wise Insights**  
+  ![Aspect Insights](images/insights.png)  
+
+- **LLM Summarized Problems**  
+  ![Problem Summary](images/problem_summary.png)  
+
 ## 🛠️ Installation
 
 ### 1. Clone the repository
