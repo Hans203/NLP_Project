@@ -1,0 +1,7 @@
+streamlit
+pandas
+nltk
+gensim
+textblob
+python-dotenv
+google-generativeai
